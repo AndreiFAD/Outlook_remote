@@ -1,5 +1,6 @@
 # Outlook_remote
 Outlook remote
+tested on Windows7 with Outlook2007 and Outlook2013
 
 seletion message from inbox:
 
